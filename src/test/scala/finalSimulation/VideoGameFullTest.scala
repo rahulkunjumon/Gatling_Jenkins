@@ -112,6 +112,7 @@ class VideoGameFullTest extends Simulation {
   /*** After ***/
   after {
     println("Stress test completed")
+    println("Tested and Verfied post build success")
   }
 
 }
